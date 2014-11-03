@@ -1,0 +1,5 @@
+=======
+AUTHORS
+=======
+
+- gdestuynder@mozilla.com
